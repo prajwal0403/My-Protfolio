@@ -26,6 +26,8 @@ import et1 from './et1.gif';
 import et2 from './et2.gif';
 import ama1 from './ama1.gif';
 import ama2 from './ama2.gif';
+import homejio from './homejio.gif';
+import prodjio from './prodjio.gif';
 
 export const navigation = {
   name: 'Prajwal',
@@ -194,6 +196,23 @@ export const projects = {
   title: 'Projects',
   cards: [
     {
+      title: 'Expense Tracker MERN',
+      description:
+        'An expense tracker app is a tool that helps individuals and businesses track their expenses. The app typically allows users to enter and categorize expenses, set budgets, and view reports on their spending habits.  The goal of an expense tracker app is to help users better understand and manage their spending, ultimately leading to greater financial control and savings.tech stacks were Mongodb | Express |npm | React | Redux | Bootstrap | antd | Javascript | Css | Html | Node',
+      image: et1.src,
+      image2: et2.src,
+      icons: [
+        {
+          icon: <FaExternalLinkSquareAlt style={iconStyle2} />,
+          link: 'https://aggressive-mite-cowboy-hat.cyclic.app/',
+        },
+        {
+          icon: <SiGithub style={iconStyle2} />,
+          link: 'https://github.com/prajwal0403/Expense-Tracker-MERN',
+        },
+      ],
+    },
+    {
       title: 'MERN Ecommerce',
       description:
         'It is an ecommerce app with  all the functionalities including sign up, sign in, user profile, product page, cart functionality, payment method ,order history, sorting ,sidebar and many more the design is ispired from amazon app. To complete this project it took me 10 days , as i worked alone on this one it is my solo project. tech stacks were Mongodb | Express |npm | React | Redux | Bootstrap | Javascript | Css | Html | Node',
@@ -211,23 +230,6 @@ export const projects = {
       ],
     },
     {
-      title: 'Expense Tracker MERN',
-      description:
-        "An expense tracker app is a tool that helps individuals and businesses track their expenses. The app typically allows users to enter and categorize expenses, set budgets, and view reports on their spending habits.  The goal of an expense tracker app is to help users better understand and manage their spending, ultimately leading to greater financial control and savings.tech stacks were Mongodb | Express |npm | React | Redux | Bootstrap | antd | Javascript | Css | Html | Node'",
-      image: et1.src,
-      image2: et2.src,
-      icons: [
-        {
-          icon: <FaExternalLinkSquareAlt style={iconStyle2} />,
-          link: 'https://aggressive-mite-cowboy-hat.cyclic.app/',
-        },
-        {
-          icon: <SiGithub style={iconStyle2} />,
-          link: 'https://github.com/prajwal0403/Expense-Tracker-MERN',
-        },
-      ],
-    },
-    {
       title: 'BigBasket Clone',
       description:
         "BigBasket is India’s Largest online Food and groceries store. and We've cloned this app and added some functionalities using backend. tech stack that we've used are HTML | JavaScript | CSS | Mongodb | NodeJs | Npm etc. for deployment we used Heroku. It was a collaborative project built by a team of 4 executed in 5 days. my teammates were  Iqbal, Ashutosh, Bhaskar ",
@@ -241,6 +243,23 @@ export const projects = {
         {
           icon: <SiGithub style={iconStyle2} />,
           link: 'https://github.com/prajwal0403/BigBasket',
+        },
+      ],
+    },
+    {
+      title: 'JioMart Clone',
+      description:
+        'In this project we have tried to make a look alike clone of Jio-Mart Website. With our efforts and the technology stack like JS, CSS and HTML, we were able to clone the front end with similar looks and features.',
+      image: homejio.src,
+      image2: prodjio.src,
+      icons: [
+        {
+          icon: <FaExternalLinkSquareAlt style={iconStyle2} />,
+          link: 'https://jio-mart-clone-eight.vercel.app/',
+        },
+        {
+          icon: <SiGithub style={iconStyle2} />,
+          link: 'https://github.com/prajwal0403/JioMart-Clone',
         },
       ],
     },
@@ -298,6 +317,5 @@ export const links = {
   image: '',
   title: 'prajwal',
   description: 'Full stack Developer',
-  cards: [
-  ],
+  cards: [],
 };
