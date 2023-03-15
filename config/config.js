@@ -49,7 +49,7 @@ export const navigation = {
   ],
 };
 export const intro = {
-  title: "Hey, I'm Prajwal",
+  title: "Hey, I'm Prajwal Raut",
   description: 'Full Stack Web Developer.',
   image: profile.src,
   buttons: [
@@ -70,7 +70,7 @@ export const about = {
   title: 'Who I am',
   description: [
     '\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0' +
-      "I'm a Full stack web developer with 6 months of working experience at Inai Technology which is a fintech startup providing checkout experience/stack to merchants globally and 8 months of learning with real-time projects while I was in Masai School. I'm an Inquisitive, energetic MERN stack developer skilled in problem-solving with a strong foundation in math, programming logic, and data structures and algorithms with the ability to work with various technologies of Frontend, as well as Backend and, have experience in working with agile methodology. Developed 5+ websites from scratch. I hope to work in a dynamic organization that helps enhance my technical skills and knowledge. I would like to work in an organization that challenges me on a daily basis and helps me grow and develop alongside the organization.",
+      "I'm a Full stack web developer with 6 months of working experience at Inai Technologies. (Chennai TamilNadu) which is a fintech startup providing checkout experience/stack to merchants globally and 8 months of learning with real-time projects while I was in Masai School. I'm An Inquisitive, energetic MERN stack developer skilled in problem-solving with a strong foundation in math, programming logic, data structures and algorithms with the ability to work with various Frontend as well as Backend technologies. and have an experience in working with agile methodology.",
     '\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0' +
       'When I’m not programming, I focus on my hobbies which are going to the Gym, playing video Games/Outdoor Games, meeting people and growing my network. And one more thing feel free to try your luck against me in FIFA.',
   ],
