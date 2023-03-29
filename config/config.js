@@ -72,9 +72,7 @@ export const about = {
   title: 'Who I am',
   description: [
     '\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0' +
-      "I'm a Full stack web developer with 6 months of working experience at Inai Technologies. (Chennai TamilNadu) which is a fintech startup providing checkout experience/stack to merchants globally and 8 months of learning with real-time projects while I was in Masai School. I'm An Inquisitive, energetic MERN stack developer skilled in problem-solving with a strong foundation in math, programming logic, data structures and algorithms with the ability to work with various Frontend as well as Backend technologies. and have an experience in working with agile methodology.",
-    '\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0' +
-      'When I’m not programming, I focus on my hobbies which are going to the Gym, playing video Games/Outdoor Games, meeting people and growing my network. And one more thing feel free to try your luck against me in FIFA.',
+      "I am a Full Stack (MERN) Web Developer with 6 months of experience at Inai Technologies, a fintech startup providing a checkout experience/stack to merchants globally, and 8 months of hands-on experience in Masai School. I have a strong foundation in math, programming logic, data structures, and algorithms, and I am skilled in problem-solving, proficient in Frontend and Backend technologies, and experienced in working with agile methodology. Outside of work, I enjoy going to the gym, playing video/outdoor games, networking and meeting new people. In my downtime, you can also find me playing FIFA, so feel free to try your luck against me."
   ],
 };
 const iconStyle = {
@@ -198,7 +196,7 @@ export const projects = {
     {
       title: 'Expense Tracker MERN',
       description:
-        'An expense tracker app is a tool that helps individuals and businesses track their expenses. The app typically allows users to enter and categorize expenses, set budgets, and view reports on their spending habits.  The goal of an expense tracker app is to help users better understand and manage their spending, ultimately leading to greater financial control and savings.tech stacks were Mongodb | Express |npm | React | Redux | Bootstrap | antd | Javascript | Css | Html | Node',
+        'The Expense Tracker app is designed to assist both individuals and businesses in monitoring their expenditures. With features that enable users to input and categorize expenses, set budgets, and generate spending reports, the app facilitates better financial management and promotes increased savings. This project was developed using a range of technologies including MongoDB, Express, NPM, React, Redux, Bootstrap, Ant Design, JavaScript, CSS, HTML, and Node.',
       image: et1.src,
       image2: et2.src,
       icons: [
@@ -215,7 +213,7 @@ export const projects = {
     {
       title: 'MERN Ecommerce',
       description:
-        'It is an ecommerce app with  all the functionalities including sign up, sign in, user profile, product page, cart functionality, payment method ,order history, sorting ,sidebar and many more the design is ispired from amazon app. To complete this project it took me 10 days , as i worked alone on this one it is my solo project. tech stacks were Mongodb | Express |npm | React | Redux | Bootstrap | Javascript | Css | Html | Node',
+        'This is a fully-functional ecommerce app that includes features such as user authentication, user profiles, product pages, shopping cart functionality, payment methods, order history, and sorting options. The design of the app is inspired by the Amazon app, and it was completed as a solo project in 10 days. The tech stack used for this project includes MongoDB, Express, npm, React, Redux, Bootstrap, JavaScript, CSS, HTML, and Node.',
       image: ama1.src,
       image2: ama2.src,
       icons: [
@@ -232,7 +230,7 @@ export const projects = {
     {
       title: 'BigBasket Clone',
       description:
-        "BigBasket is India’s Largest online Food and groceries store. and We've cloned this app and added some functionalities using backend. tech stack that we've used are HTML | JavaScript | CSS | Mongodb | NodeJs | Npm etc. for deployment we used Heroku. It was a collaborative project built by a team of 4 executed in 5 days. my teammates were  Iqbal, Ashutosh, Bhaskar ",
+        "We cloned India's largest online food and grocery store, BigBasket, and added additional functionalities using backend technologies such as HTML, JavaScript, CSS, MongoDB, Node.js, and npm. We deployed the app on Heroku. This was a collaborative project that was completed in 5 days by a team of 4, including myself and my teammates Iqbal, Ashutosh, and Bhaskar. ",
       image: homebb.src,
       image2: prodbb.src,
       icons: [
@@ -249,7 +247,7 @@ export const projects = {
     {
       title: 'JioMart Clone',
       description:
-        'In this project we have tried to make a look alike clone of Jio-Mart Website. With our efforts and the technology stack like JS, CSS and HTML, we were able to clone the front end with similar looks and features.',
+        'In this project, we aimed to create a visually identical clone of the Jio-Mart website using technologies such as JavaScript, CSS, and HTML. Through our collective efforts and expertise, we successfully replicated the front-end design and features of the original website.',
       image: homejio.src,
       image2: prodjio.src,
       icons: [

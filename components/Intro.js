@@ -6,7 +6,7 @@ const { publicRuntimeConfig } = getConfig()
 
 export const Intro = ({ title, description, image, buttons }) => {
 	return (
-		<div className="bg-secondary py-5 px-5">
+		<div className="bg-secondary px-5">
 			<div className="container">
 				<div className=" row align-items-center">
 					<div className="col-sm-6">
