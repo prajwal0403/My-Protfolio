@@ -72,7 +72,7 @@ export const about = {
   title: 'Who I am',
   description: [
     '\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0' +
-      "Full Stack (MERN) Web Developer with 6 months experience at Inai Technologies, fintech startup providing checkout experience/stack to merchants globally, and 8 months hands-on experience at Masai School. Strong foundation in math, programming logic, data structures, algorithms, skilled in problem-solving, proficient in Frontend/Backend technologies, and experienced with agile methodology. Outside work, I enjoy going to gym, playing video/outdoor games, networking and meeting new people. In downtime, find me playing FIFA, feel free to try your luck against me."
+      "Full Stack (MERN) Web Developer with 6 months experience at Inai Technologies, fintech startup providing checkout experience/stack to merchants globally, and 8 months hands-on experience at Masai School. Strong foundation in math, programming logic, data structures, algorithms, skilled in problem-solving, proficient in Frontend/Backend technologies, and experienced with agile methodology. Outside work, enjoy going to gym, playing video/outdoor games, networking and meeting new people. In downtime, find playing FIFA, feel free to try your luck against me."
   ],
 };
 const iconStyle = {
